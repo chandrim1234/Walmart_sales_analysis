@@ -1,5 +1,5 @@
-# Walmart_sales_analysis
-This project analyzes Walmart Sales data to gain insights into
+![image](https://github.com/user-attachments/assets/18c2cbed-3dde-4e26-b9da-7f53c308c0f9)
+
 # Walmart Sales Data Analysis
 
 Project Overview :-
